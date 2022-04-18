@@ -1,0 +1,212 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(../images/back.jpg);
+}
+
+/*start of navbar*/
+
+.navbar h1{
+    font-family: 'Pacifico', cursive;
+    display: inline-block;
+    padding: 0px 50px;
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+    margin:0px 50px;
+}
+.navbar ul{
+    display: inline-block;
+}
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+    color: #fff;
+
+}
+/*end of navbar*/
+
+/*start of hero*/
+.hero{
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.hero  h4{
+    display: inline-block;
+     margin-left:45px ;
+     color: rgb(10, 95, 10);
+     font-size: 20px;
+}
+
+.hero .he{
+    overflow: hidden;
+}
+
+.hero .he .im1 img{
+    width: 465px;
+    height: 40vh;
+    margin-bottom: 10px;
+    float: left;
+
+}
+
+.hero .he .im2 img{
+    width: 465px;
+    height: 40vh;
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 62px;
+}
+
+.hero .he .im3 img{
+    width: 465px;
+    height: 40vh;
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 62px;
+}
+/*end of hero*/
+
+/*start of body1*/
+.body1{
+   overflow: hidden;
+   margin: 40px ;
+}
+.body1 .pro1 img{
+    width: 500px;
+    height: 30vh;
+    float: left;
+    margin-left: 210px;
+}
+.body1 .pro2 img{
+    width: 500px;
+    height: 30vh;
+    float: left;
+    margin-left: 20px;
+}
+hr{
+    color: #fff;
+    width: 70%;
+}
+/*end of body1*/
+
+/*start of body2*/
+.body2{
+    overflow: hidden;
+    margin-bottom: 0px;
+}
+.body2 h2{
+    font-family: 'Pacifico', cursive;
+    display: inline-block;
+    color: #fff;
+    font-size: 35px;
+    margin-left: -1070px;
+}
+.body2 .product1{
+    float: left;
+    margin-left: 220px;
+    margin-top: 100px;
+}
+.body2 .product1 img{
+    width: 150px;
+    height: 20vh;
+    border: 3px solid #fff;
+}
+.body2 .product1 p{
+    color: #fff;
+}
+.body2 .product1 h3{
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+}
+
+
+.body2 .product2{
+    float: left;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.body2 .product2 img{
+    width: 150px;
+    height: 20vh;
+    border: 3px solid #fff;
+}
+.body2 .product2 p{
+    color: #fff;
+}
+.body2 .product2 h3{
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+}
+
+
+.body2 .product3{
+    float: left;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.body2 .product3 img{
+    width: 150px;
+    height: 20vh;
+    border: 3px solid #fff;
+}
+.body2 .product3 p{
+    color: #fff;
+}
+.body2 .product3 h3{
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+}
+
+
+.body2 .product4{
+    float: left;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.body2 .product4 img{
+    width: 150px;
+    height: 20vh;
+    border: 3px solid #fff;
+}
+.body2 .product4 p{
+    color: #fff;
+}
+.body2 .product4 h3{
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+}
+
+/*end of body2*/
+
+/*start of footer*/
+.footer{
+    background-color: #fff;
+}
+.footer ul{
+    display: inline-block;
+}
+.footer ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.footer .foot{
+    margin-left: 320px;
+}
+.footer ul li a{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 50px;
+    color: purple;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+
+/*end of footer*/
